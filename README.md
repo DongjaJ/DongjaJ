@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Dongja_J&type=Waving&height=250)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&center=true&width=800&height=100&multiline=true&lines=I'm+learning+Typescript+and+Object+oriented+Programming;And+I'm+interested+of+functonal+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&center=true&width=800&height=80&multiline=true&lines=I'm+learning+Typescript+and+Object+oriented+Programming;And+I'm+interested+in+Functional+Programming)](https://git.io/typing-svg)
 
 
 ## Hi there 👋
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongjaJ&show_icons=true&theme=gruvbox)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdghks12)](https://solved.ac/ehdghks12)
-
-
 
 
 # 💪Skills
