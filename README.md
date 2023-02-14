@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Dongja_J&type=Waving&color=gradient&height=200&animation=fadeIn&fontAlign=70&&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?text=Dongja_J&type=Waving&color=gradient&height=200&animation=fadeIn&fontAlignY=35)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&center=true&width=800&height=80&multiline=true&lines=I'm+learning+Typescript+and+Object+oriented+Programming;And+I'm+interested+in+Functional+Programming&font=Redressed&size=30)](https://git.io/typing-svg)
