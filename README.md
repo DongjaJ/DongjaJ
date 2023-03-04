@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Dongja&type=Waving&color=gradient&height=200&animation=fadeIn&fontAlignY=35)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&center=true&width=800&height=80&multiline=true&lines=I'm+learning+Typescript+and+Object+oriented+Programming;And+I'm+interested+in+Functional+Programming&font=Redressed&size=30)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&center=true&width=800&height=80&multiline=true&lines=I'm+learning+Typescript+and+Object+oriented+Programming;And+I'm+interested+in+Recoil,+Zustand+and+Jotai&font=Redressed&size=30)](https://git.io/typing-svg)
 
 ## Hi there 👋
 <!--
@@ -30,8 +28,17 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
 
 
-# 💪Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+<div align="center">
+
+# 🔨 Skills 🔨
+  
+### ⚽ Used
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+ ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+ 
+ ### 🌱 I’m currently learning ...
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+  
+ </div>
