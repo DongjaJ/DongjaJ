@@ -72,11 +72,11 @@ Here are some ideas to get you started:
  
 ### 📕 공부 노트
   
-|공부 내용|내용|소속|기간|
-|---|-----|----|--|
-|[React](https://github.com/DongjaJ/React-study)|React study|개인|`2023.03 ~ 2023.05`|
-|[typescript](https://github.com/DongjaJ/typescript)|Typescript study|개인|`2023.01 ~ 2023.04`|
-|[javascript](https://github.com/DongjaJ/Browser)|javascipt study|개인|`2022.04~2022.06`|
-|[Javascript30](https://github.com/DongjaJ/JavaScript30)|javscript challenge|개인|`2022.01 ~ 2022.02`|
+|공부 내용|내용|기간|
+|---|-----|--|
+|[React](https://github.com/DongjaJ/React-study)|React study|`2023.03 ~ 2023.05`|
+|[typescript](https://github.com/DongjaJ/typescript)|Typescript study|`2023.01 ~ 2023.04`|
+|[javascript](https://github.com/DongjaJ/Browser)|javascipt study|`2022.04~2022.06`|
+|[Javascript30](https://github.com/DongjaJ/JavaScript30)|javscript challenge|`2022.01 ~ 2022.02`|
   
  </div>
