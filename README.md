@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdghks12)](https://solved.ac/ehdghks12)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DongjaJ&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DongjaJ&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/) -->
 
 <div align="center">
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 |프로젝트 명|내용|소속|기간|
 |---|-----|----|--|
 |[CarBook](https://github.com/softeerbootcamp/Team2-CarBook)|사용자의 차 사진을 모아볼 수 있는 SNS|현대 소프티어 부트캠프|`2023.02`|
-|[Console-Todolist](https://github.com/DongjaJ/fe-console-todo)|console을 이용한 간단한 todolist|현대 소프티어 부트캠프|`2022.01`|
+|[fe-console-todo](https://github.com/DongjaJ/fe-console-todo)|console을 이용한 간단한 todolist|현대 소프티어 부트캠프|`2022.01`|
 |[SickPle](https://github.com/DongjaJ/mobileSoftware_Diet)|다이어트를 위한 식단 기록 앱 서비스|교내 팀 프로젝트|`2022.10 ~ 2022.11`|
 |[WaterMelonMarket](https://github.com/DongjaJ/Watermelon_Market)|중고 거리 플랫폼|교내 팀 프로젝트|`2022.05 ~ 2022.06`|
 |[NFTMarketplace](https://github.com/DongjaJ/CapstoneDesign_NFTMarketplace)|NFT 거래 플랫폼|교내 팀 프로젝트|`2022.03 ~ 2022.06`|
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 |[Youtube_clone](https://github.com/DongjaJ/Youtube_clone)|유튜브 클론코딩|개인 토이 프로젝트|`2023.05 ~`|
 |[React-Todo](https://github.com/DongjaJ/React-Todo)|React로 만든 Todolist|개인 토이 프로젝트|`2023.05`|
 |[Motion](https://github.com/DongjaJ/Motion)|Typescript로 만든 Todolist|개인 토이 프로젝트|`2023.04 ~ 2023.05`|
-|[Console-Todolist](https://github.com/DongjaJ/fe-console-todo)|javascipt todolist|현대 소프티어 부트캠프|`2022.01`|
+|[fe-web-todo](https://github.com/DongjaJ/fe-web-todo)|javascipt Todolist|현대 소프티어 부트캠프|`2022.01`|
 |[Portfolio](https://github.com/DongjaJ/portfolio)|포트폴리오 클론코딩|개인 토이 프로젝트|`2022.01 ~ 2022.02`|
  
   
