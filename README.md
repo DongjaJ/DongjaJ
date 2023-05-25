@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&width=800&height=80&multiline=true&lines=I'm+learning+React+And+interested+in+Next.js,&font=Redressed&size=30)](https://git.io/typing-svg)
 
-
-
 ## Hi there 👋
 <!--
 **DongjaJ/DongjaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +35,11 @@ Here are some ideas to get you started:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-<img src="https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=white">
+  
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  
   
 ### 🌱 I’m currently learning ...
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,8 +53,10 @@ Here are some ideas to get you started:
 🔥 Programmers Frontend Devcourse  2023.06 ~  <br />
 ✔️ Hyundai Softeer Bootcamp 2023.01 ~ 2023.02  <br />
 ✔️ Sds algorithm class  2022.07  <br />
-✔️ 42 Seoul  2022.01 ~ 2022.12  <br />
-
+✔️ 42 Seoul  2022.01 ~ 2022.12
+  
+<!-- <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"> -->
+  
   
  <br/>
   
@@ -65,7 +69,7 @@ Here are some ideas to get you started:
 |[CarBook](https://github.com/softeerbootcamp/Team2-CarBook)|사용자의 차 사진을 모아볼 수 있는 SNS|현대 소프티어 부트캠프|`2023.02`|
 |[fe-console-todo](https://github.com/DongjaJ/fe-console-todo)|console을 이용한 간단한 todolist|현대 소프티어 부트캠프|`2022.01`|
 |[SickPle](https://github.com/DongjaJ/mobileSoftware_Diet)|다이어트를 위한 식단 기록 앱 서비스|교내 팀 프로젝트|`2022.10 ~ 2022.11`|
-|[WaterMelonMarket](https://github.com/DongjaJ/Watermelon_Market)|중고 거리 플랫폼|교내 팀 프로젝트|`2022.05 ~ 2022.06`|
+|[WaterMelonMarket](https://github.com/DongjaJ/Watermelon_Market)|중고 거래 플랫폼|교내 팀 프로젝트|`2022.05 ~ 2022.06`|
 |[NFTMarketplace](https://github.com/DongjaJ/CapstoneDesign_NFTMarketplace)|NFT 거래 플랫폼|교내 팀 프로젝트|`2022.03 ~ 2022.06`|
   
 ### 🐯 개인 프로젝트
