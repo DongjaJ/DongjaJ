@@ -31,34 +31,34 @@ Here are some ideas to get you started:
 # 🔨 Skills 🔨
   
 ### ⚽ Used
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+<img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-  
+<img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white">
+
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  
   
 ### 🌱 I’m currently learning ...
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-
- <br/>
   
 ## 🚀 History 
 
 🔥 Programmers Frontend Devcourse  2023.06 ~  <br />
+🔥 Open Source Contribution Academy  2023.07 ~  <br />
 ✔️ Hyundai Softeer Bootcamp 2023.01 ~ 2023.02  <br />
 ✔️ Sds algorithm class  2022.07  <br />
-✔️ 42 Seoul  2022.01 ~ 2022.12
-  
-<!-- <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"> -->
-  
-  
- <br/>
+✔️ 42 Seoul  2022.01 ~ 2022.12 <br/>
   
 ## 📌 Project
   
@@ -81,14 +81,21 @@ Here are some ideas to get you started:
 |[Motion](https://github.com/DongjaJ/Motion)|Typescript로 만든 Todolist|개인 토이 프로젝트|`2023.04 ~ 2023.05`|
 |[fe-web-todo](https://github.com/DongjaJ/fe-web-todo)|javascipt Todolist|현대 소프티어 부트캠프|`2022.01`|
 |[Portfolio](https://github.com/DongjaJ/portfolio)|포트폴리오 클론코딩|개인 토이 프로젝트|`2022.01 ~ 2022.02`|
- 
-### 📕 공부 노트
+
+
+<details>
+  <summary> <h3>📕 공부 노트</h3></summary>
   
-|공부 내용|내용|기간|
-|---|-----|--|
-|[React](https://github.com/DongjaJ/React-study)|React study|`2023.03 ~ 2023.05`|
-|[typescript](https://github.com/DongjaJ/typescript)|Typescript study|`2023.01 ~ 2023.04`|
-|[javascript](https://github.com/DongjaJ/Browser)|javascipt study|`2022.04~2022.06`|
-|[Javascript30](https://github.com/DongjaJ/JavaScript30)|javscript challenge|`2022.01 ~ 2022.02`|
+  |공부 내용|내용|기간|
+  |---|-----|--|
+  |[React](https://github.com/DongjaJ/React-study)|React study|`2023.03 ~ 2023.05`|
+  |[typescript](https://github.com/DongjaJ/typescript)|Typescript study|`2023.01 ~ 2023.04`|
+  |[javascript](https://github.com/DongjaJ/Browser)|javascipt study|`2022.04~2022.06`|
+  |[Javascript30](https://github.com/DongjaJ/JavaScript30)|javscript challenge|`2022.01 ~`|
+</details>
+
+  
+
+ 
   
  </div>
