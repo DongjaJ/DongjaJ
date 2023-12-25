@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DongjaJ&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DongjaJ&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 🔨 Skills 🔨
   
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
    
 ## 🚀 History 
 
-🔥 Programmers Frontend Devcourse  2023.06 ~  <br />
+✔️ Programmers Frontend Devcourse  2023.06 ~  2023.12 <br />
 ✔️ Open Source Contribution Academy  2023.07 ~ 2023.10  <br />
 ✔️ Hyundai Softeer Bootcamp 2023.01 ~ 2023.02  <br />
 ✔️ Sds algorithm class  2022.07  <br />
