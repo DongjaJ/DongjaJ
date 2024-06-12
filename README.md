@@ -30,6 +30,7 @@ Hi there 👋
   
 |프로젝트 명|내용|소속|기간|
 |---|-----|----|--|
+|[ANI-FRIENDS](https://github.com/anifriends/frontend)|유기동물 보호소와 봉사자들을 매칭해주는 플랫폼|프로그래머스 데브코스|`2023.10~12`|
 |[TMI-HOMERS](https://github.com/DongjaJ/TMI_HOMERS)|사용자의 TMI를 기사형식으로 공유하는 플랫폼|프로그래머스 데브코스|`2023.09`|
 |[CarBook](https://github.com/softeerbootcamp/Team2-CarBook)|사용자의 차 사진을 모아볼 수 있는 SNS|현대 소프티어 부트캠프|`2023.02`|
   
