@@ -1,23 +1,13 @@
 <div>
 
-Hi there 👋
+[이력서](https://scarlet-knuckle-011.notion.site/Jeung-Donghwan-5d00996415264cb5bc7d63663c8ae54c
+)
 
-# 🔨 Skills 🔨
-  
-### ⚽ Used
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-<img src="https://img.shields.io/badge/TanStackquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
-  
-### 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white">
-<img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakraui&logoColor=white">
-<img src="https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
-<img src="https://img.shields.io/badge/mockserviceworker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white">
+## ✨ Work
+✔️ Tmax WAPL  2023.12 ~  2024.11 <br />
    
 ## 🚀 History 
-
+✔️ Open Source Contribution Academy  2024.09 ~  2024.10 <br />
 ✔️ Programmers Frontend Devcourse  2023.06 ~  2023.12 <br />
 ✔️ Open Source Contribution Academy  2023.07 ~ 2023.10  <br />
 ✔️ Hyundai Softeer Bootcamp 2023.01 ~ 2023.02  <br />
