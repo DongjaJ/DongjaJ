@@ -7,7 +7,7 @@
 ✔️ Tmax WAPL  2023.12 ~  2024.11 <br />
    
 ## 🚀 History 
-✔️ CMC  2024.09 ~  2024.10 <br />
+🔥 CMC  2024.12 ~  <br />
 ✔️ DND  2025.01 ~  2025.02 <br />
 ✔️ Open Source Contribution Academy  2024.09 ~  2024.10 <br />
 ✔️ Programmers Frontend Devcourse  2023.06 ~  2023.12 <br />
