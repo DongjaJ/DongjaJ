@@ -1,8 +1,5 @@
 <div>
 
-[이력서](https://scarlet-knuckle-011.notion.site/Jeung-Donghwan-5d00996415264cb5bc7d63663c8ae54c
-)
-
 ## ✨ Work
 ✔️ Tmax WAPL  2023.12 ~  2024.11 <br />
    
