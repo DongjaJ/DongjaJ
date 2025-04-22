@@ -10,8 +10,6 @@
 ✔️ Programmers Frontend Devcourse  2023.06 ~  2023.12 <br />
 ✔️ Open Source Contribution Academy  2023.07 ~ 2023.10  <br />
 ✔️ HMG SOFTEER BOOTCAMP 2023.01 ~ 2023.02  <br />
-✔️ SAMSUNG SDS algorithm class  2022.07  <br />
-✔️ 42 SEOUL  2022.01 ~ 2022.12 <br/>
   
 ## 📌 Project
   
